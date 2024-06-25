@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.progress-bar {
+    background-color: #72218a;
+}
+
+.card p span {
+    float: right;
+}
+
+.edit-button {
+    background-color: transparent;
+    border: none;
+    color: #007bff;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+}
+
+.percent {
+    margin-left: 10px; 
+    color: #d9534f; 
+}
+
